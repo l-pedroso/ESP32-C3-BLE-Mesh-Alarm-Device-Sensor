@@ -1,7 +1,7 @@
-| Supported Targets | ESP32 |
-| ----------------- | ----- |
+Sensor Para Alarme BLE Mesh
 
-ESP BLE Mesh Vendor Server Example
-==================================
+-Sensor genérico utilizando comunicação com a centrar através de bluetooth Mesh
 
-For description of this example please refer to [ESP BLE Mesh Vendor Client Example](../vendor_client/README.md)
+ToDo:
+
+-Configurar HeartBeat
